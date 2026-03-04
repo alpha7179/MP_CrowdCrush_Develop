@@ -350,7 +350,7 @@
                     "name": "Is Tracked",
                     "type": "Button",
                     "id": "82eb6741-beef-48d3-83ab-a957dc1caa1e",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
@@ -893,7 +893,7 @@
                 {
                     "name": "",
                     "id": "1fd9cbe1-15e9-4b82-960f-e511da159268",
-                    "path": "<OculusTouchController>{LeftHand}/secondaryButton",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -904,7 +904,7 @@
                 {
                     "name": "",
                     "id": "0023aec1-9f14-4ae9-abf2-22091b1c6fd4",
-                    "path": "<OculusTouchController>{LeftHand}/primaryButton",
+                    "path": "<XRController>{LeftHand}/primaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2066,7 +2066,7 @@
                 {
                     "name": "",
                     "id": "ce9b861c-afc7-4a88-8209-bcccc84811d3",
-                    "path": "<OculusTouchController>{RightHand}/secondaryButton",
+                    "path": "<XRController>{RightHand}/secondaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -2077,7 +2077,7 @@
                 {
                     "name": "",
                     "id": "9607764a-f496-42ba-ac09-99997372ab29",
-                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "path": "<XRController>{RightHand}/primaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
